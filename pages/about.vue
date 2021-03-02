@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h2>dk aalfjafj</h2>
-    <p>This is the DadJokes Page</p>
+    <h2>Welcom to Vue Mastery</h2>
+    <p>This is the very simple nuxt App</p>
   </div>
 </template>
 
